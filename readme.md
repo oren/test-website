@@ -1,4 +1,4 @@
-# Test Isso (comments engine)
+# Website in Node.js for testing Isso (comments engine)
 
 ## Prerequisites
 
