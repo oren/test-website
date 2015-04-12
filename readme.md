@@ -7,6 +7,8 @@
 
 ## Build
 
+    git clone git@github.com:oren/test-website.git
+    cd test-website
     docker-compose build
 
 ## Run
