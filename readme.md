@@ -9,7 +9,11 @@ http://posativ.org/isso/
 
 ## Run
 
+First run the comments service - [https://github.com/oren/test-isso](https://github.com/oren/test-isso)
+
     git clone git@github.com:oren/test-website.git
     cd test-website
     docker-compose build
     docker-compose up
+
+To test it go to: [http://localhost:3000](http://localhost:3000).
